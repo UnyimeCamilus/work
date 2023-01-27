@@ -1,0 +1,15 @@
+.container{
+    background-color: blue;
+    width: fit-content;
+    height: auto;
+    margin: auto;
+    margin-top: 80px;
+    padding: 25px;
+    border-radius: 15px;
+}
+ 
+h3{
+    color: #fff;
+    font-size: 15px;
+    text-transform: uppercase;
+}
